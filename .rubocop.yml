@@ -1,0 +1,9 @@
+require: rubocop-rspec
+
+Layout/LineLength:
+  Max: 80
+
+RSpec/MultipleExpectations:
+  Max: 6
+RSpec/NestedGroups:
+  Max: 6
